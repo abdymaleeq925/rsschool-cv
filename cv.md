@@ -1,4 +1,4 @@
-# **Abdymalik Batyrkulov**  ![Image](/profile.jpg)
+# **Abdymalik Batyrkulov**  ![Image](/rsschool-cv/imgs/profile.jpg)
 
 **Contacts:**  
 *abdymalikbatyrkulov@gmail.com, +996(509)444 155, +7(771)218 13 13*
