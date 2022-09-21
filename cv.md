@@ -1,4 +1,4 @@
-# **Abdymalik Batyrkulov**  ![Image](/images/profile.jpg)
+# **Abdymalik Batyrkulov**  ![Image](/images/profile.jpg =320x320)
 
 **Contacts:**  
 *abdymalikbatyrkulov@gmail.com, +996(509)444 155, +7(771)218 13 13*
