@@ -1,4 +1,4 @@
-# **Abdymalik Batyrkulov**  ![Image](/rsschool-cv/images/profile.jpg)
+# **Abdymalik Batyrkulov**  ![Image](/images/profile.jpg)
 
 **Contacts:**  
 *abdymalikbatyrkulov@gmail.com, +996(509)444 155, +7(771)218 13 13*
@@ -8,8 +8,9 @@ I have graduated mining engineering and I am eager to learn new industry in orde
 
 **Skills:**  
 [Python](https://www.codewars.com/users/abdymalik14)  
-[Django](https://github.com/abdymaleeq925?tab=repositories)  [SQL](https://github.com/abdymaleeq925/lib_bot)  
+[Django](https://github.com/abdymaleeq925?tab=repositories)    
 [TelegramBot](https://github.com/abdymaleeq925/converterbot)  
+[SQL](https://github.com/abdymaleeq925/lib_bot)  
 
 **Education:** 
 Istanbul Technical Unviersity - Mining Engineering  
