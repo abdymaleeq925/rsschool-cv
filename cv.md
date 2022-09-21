@@ -11,7 +11,7 @@ I have graduated mining engineering and I am eager to learn new industry in orde
 [Django](https://github.com/abdymaleeq925?tab=repositories)  [SQL](https://github.com/abdymaleeq925/lib_bot)  
 [TelegramBot](https://github.com/abdymaleeq925/converterbot)  
 
-**Education:**  
+**Education:** 
 Istanbul Technical Unviersity - Mining Engineering  
 
 **Languages:**
