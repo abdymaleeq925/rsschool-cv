@@ -1,7 +1,7 @@
-##**Abdymalik Batyrkulov**##  ![](/rsschool/profile.jpg)
+## **Abdymalik Batyrkulov** ##  ![](/profile.jpg)
 
-###**Contacts:**
-*abdymalikbatyrkulov@gmail.com, +996(509)444 155, +7(771)218 13 13* ###
+### **Contacts:**
+*abdymalikbatyrkulov@gmail.com, +996(509)444 155, +7(771)218 13 13*
 
 **About me**
 I have graduated mining engineering and I am eager to learn new industry in order to upgrade my general knowledge and not to be dependent on one profession. I started to study Python last year and achieved some results such as general knowledge of Python, implementing of Django, dealing with Telegram bots and parsing. I caught an opportunity to study JS in RSSchool and I want to continue my studies on programming. I have already signed up in CodeWars and solved bunch of questions. Also I worked on some small projects for practicing my skills. My aim is to get deeper in programming and learn as much as I can. I want to contribute myself and my knowledge as well as I can to this world. Because finally things that we leave in this world make sense after us.
